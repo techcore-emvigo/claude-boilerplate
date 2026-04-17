@@ -1,2 +1,2 @@
-# claude-boilerplat
+# claude-boilerplate
 cluade skelton
